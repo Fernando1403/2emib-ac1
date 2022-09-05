@@ -8,5 +8,5 @@ Projeto de um sistema full stack
 - Lucas Rodrigues
 ## Tema do Projeto
 Física
-Vamos fazer um site que abordará a física como um todo, falando sobre seus conceitos, formulas, físicos importantes e suas teorias/teses
+-Vamos fazer um site que abordará a física como um todo, falando sobre seus conceitos, formulas, físicos importantes e suas teorias/teses
 
