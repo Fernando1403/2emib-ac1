@@ -1,11 +1,11 @@
 # 2emib-ac1
 Projeto de um sistema full stack
 ## Alunos
-- Arthur Marcio
-- Fernando Gonzales
-- Gustavo Fernandes
-- Lucas Dias
-- Lucas Rodrigues
+- Arthur Marcio, RM:13397
+- Fernando Gonzales, RM:14783
+- Gustavo Fernandes, RM:13101
+- Lucas Dias, RM:14855
+- Lucas Rodrigues, RM:12043
 ## Tema do Projeto
 Física:
 
