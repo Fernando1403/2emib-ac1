@@ -2,8 +2,8 @@
 # 2emib-ac1
 Projeto de um sistema full stack
 ## Alunos
+- ` Fernando Gonzales, RM:14783 `
 - Arthur Marcio, RM:13397
-- Fernando Gonzales, RM:14783
 - Gustavo Fernandes, RM:13101
 - Lucas Dias, RM:14855
 - Lucas Rodrigues, RM:12043
