@@ -10,4 +10,4 @@ Projeto de um sistema full stack
 ## Tema do Projeto
 Física:
 
-Vamos fazer um site que abordará a física como o principal foco da nossa pagina sendo o fisico Isaac Newton
+Vamos fazer um site que abordará a física, com o principal foco da nossa pagina sendo o fisico Isaac Newton
