@@ -9,3 +9,11 @@ Projeto de um site sobre o Isaac Newton
 - Arthur Marcio
 ## Tema do projeto
 O tema será um site sobre o fisico Isaac Newton e todas as suas conquistas e história
+
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="CSS válido!" />
+    </a>
+</p>

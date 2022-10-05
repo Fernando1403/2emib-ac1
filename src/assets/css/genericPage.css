@@ -1,0 +1,14 @@
+.G{
+background-color: rgb(49, 49, 49);
+padding-left: 1rem;
+padding-right: 1rem;
+padding-top: 1rem;
+padding-bottom: 1rem;
+color: rgb(239, 239, 239);
+}
+
+body{
+    background-image: url(https://cdn.discordapp.com/attachments/764578540908970065/1025195712914395186/pexels-francesco-ungaro-998641_5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
