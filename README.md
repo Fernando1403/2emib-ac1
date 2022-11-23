@@ -17,4 +17,3 @@ O tema será um site sobre o fisico Isaac Newton e todas as suas conquistas e hi
 
 ![Capturar1](https://user-images.githubusercontent.com/84139372/203539105-227620b8-2aaa-4b60-bef0-1e5d090367cb.JPG)
 
-[Estrutura do site (1).pdf](https://github.com/Fernando1403/2emib-ac1/files/10075147/Estrutura.do.site.1.pdf)
