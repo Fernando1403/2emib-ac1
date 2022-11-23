@@ -9,12 +9,9 @@
 
 # 2emib-ac1
 Projeto de um site sobre o Isaac Newton
-## Alunos
+## Aluno
 - ` Fernando Gonzales Alexandre `
-- Lucas Dias
-- Lucas Rodrigues
-- Gustavo Rodrigues
-- Arthur Marcio
+
 ## Tema do projeto
-O tema será um site sobre o fisico Isaac Newton e todas as suas conquistas e história
+O tema será um site sobre o fisico Isaac Newton e todas as suas conquistas e história, tendo sucesso no projeto ampliaremos para outros fisicos.
 
