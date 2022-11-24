@@ -9,7 +9,7 @@
 
 # Site dos maiores fisicos
 Projeto de um site sobre o Isaac Newton
-## Aluno
+## Alunos
 - ` Arthur Marcio `
 - ` Fernando Gonzales Alexandre `
 - ` Lucas Rodrigues Alves `
