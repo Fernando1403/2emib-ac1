@@ -10,7 +10,9 @@
 # Site dos maiores fisicos
 Projeto de um site sobre o Isaac Newton
 ## Aluno
+- ` Arthur Marcio `
 - ` Fernando Gonzales Alexandre `
+- ` Lucas Rodrigues Alves `
 
 ## Tema do projeto
 O tema será um site sobre o fisico Isaac Newton e todas as suas conquistas e história, tendo sucesso no projeto ampliaremos para outros fisicos.
